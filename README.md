@@ -4,6 +4,10 @@
 
 Objective: Predict the number of the stry animal in the future / Predict the probability that it is a stray animals when it send to the hospital / the day they may stay in the hospital
 
+![image](https://github.com/AaronTeah/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/69444412/7519e3ea-2880-46be-9f37-142419294e9a)
+
+
+
 Data Preparation: 
 
 
