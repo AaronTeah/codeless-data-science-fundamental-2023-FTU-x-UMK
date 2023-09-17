@@ -3,8 +3,10 @@
 ## Project Knime: Stray Animal
 
 Thing that can be visualize: 
-- the category of the breed (decision tree)
-- the probability of adoption when the animal bite = Y
+- prediction of the category of the breed
+- predict is it will bite people
+- predict adoption + current adoption probability
+- 
 - 
 
 Objective: Predict the number of the stry animal in the future / Predict the probability that it is a stray animals when it send to the hospital / the day they may stay in the hospital / how many percentage that will be foster back. 
