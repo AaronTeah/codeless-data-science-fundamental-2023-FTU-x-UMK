@@ -30,6 +30,13 @@ Data Preparation:
 Model: 
 
 
+Data Understanding： 
+
+![image](https://github.com/AaronTeah/codeless-data-science-fundamental-2023-FTU-x-UMK/assets/69444412/23978973-70c9-4851-8c0f-80f51c7d97de)
+
+           
+
+
 Deployment: 
 
 
